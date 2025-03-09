@@ -4,4 +4,3 @@ scikit-learn
 numpy
 pandas
 joblib
-python==3.12
