@@ -14,7 +14,7 @@ A web application that predicts house prices based on various housing features u
 - Deployed on Render for easy access.
 
 ## 🔧 Tech Stack
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML
 - **Backend:** Flask (Python)
 - **Machine Learning Model:** Scikit-learn (Linear Regression)
 - **Deployment:** Render
